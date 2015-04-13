@@ -55,3 +55,10 @@ docs/_build/
 
 # PyBuilder
 target/
+
+.gitignore
+*.sql
+import.py
+blog-sql.sql.zip
+blog-sql.sql.zip
+site/

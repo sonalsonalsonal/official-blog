@@ -7,6 +7,7 @@ theme: readthedocs
 repo_url: https://github.com/picovico/official-blog
 
 pages:
+- ["index.md", "Home"]
 - ["picovico-collaborates-with-rotaract-for-video-contest.md", "Picovico collaborates with Rotaract for video contest "]
 - ["when-we-reached-50k-installs-of-picovico-slideshow-maker-on-android.md", "When we reached 50K installs of Picovico Slideshow Maker on Android"]
 - ["how-to-create-a-photo-slideshow-video-with-music-on-android.md", "How to create a slideshow video with music on Android?"]

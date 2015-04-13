@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block title %}{{ SITENAME }} - {{ category}}{% endblock %}
+
+{% block content %}
+ <h2 class="page_title">Articles dans la catégorie «{{ category }}»</h2>
+ {% if articles %}
+  {% for article in articles %} 
+    {% include 'article_snippet.html' %}
+  {% endfor %}
+ {% endif %}
+{% endblock %}

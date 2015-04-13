@@ -1,0 +1,12 @@
+                <div class="postmetadata">
+                  <h6 class="blog-author"><strong>by</strong> {{ AUTHOR }}</h6>
+                  {% if article.tags %}
+                    <h6 class="blog-cat"><strong>in</strong> 
+                    {% for tag in article.tags %}
+                        {%if loop.index > 1%}, {%endif%}
+                        <a href="{{ SITEURL }}/{{ tag.url }}" title="View all posts in {{ tag }}">{{ tag }}</a>
+                    {% endfor %}
+                  {% endif %}
+                  <!-- <h6 class="blog-comments"> No Comments </h6> -->
+               </div>
+               <h6 class="blog-date"><span>{{ article.date.day }} </span>{{ article.date|strftime('%B %Y') }}</h6>

@@ -1,0 +1,62 @@
+<aside id="sidebar">
+{% block sidebar_header %}
+{% endblock %}
+
+  {# 
+  <div class="widget" id="categories">
+    <h2>Categories</h2>
+    <ul>
+    {% for cat, null in categories %}
+      <li {% if cat == category %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+    {% endfor %}
+    </ul>
+  </div>
+
+  #}
+
+  {% if article  and article.tags %}
+  <div class="widget" id="tags">
+    <h2>Tags</h2>
+    <ul>
+    {% for tag in article.tags %}
+      <li><a href="{{SITEURL}}/{{tag.url}}">{{ tag }}</a></li>
+    {% endfor %}
+      <li><a class="more" href="{{SITEURL}}/tags.html">Plus...</a></li>
+    </ul>
+  </div>
+  {%endif%}
+  
+  {% if LINKS %}
+  <div class="widget" id="blogroll">
+    <h2>Links</h2>
+    <ul>
+    {% for name, link in LINKS %}
+      <li><a href="{{ link }}">{{ name }}</a></li>
+    {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  {% if SOCIAL %}
+    <div class="widget" id="social">
+      <h2>Social</h2>
+      <ul>
+        {% for name, link in SOCIAL %}
+        <li><a href="{{ link }}">{{ name }}</a></li>
+        {% endfor %}
+       </ul>
+    </div>
+ {% endif %}
+
+ {% if FEED or FEED_RSS %}
+    <div class="widget" id="subscribe">
+    <h2>Feeds</h2>
+      <ul>
+        <li><a href="{{ SITEURL }}/{{ FEED }}" rel="alternate">ATOM</a></li>
+        {% if FEED_RSS %}
+        <li><a href="{{ SITEURL }}/{{ FEED_RSS }}" rel="alternate">RSS</a></li>
+        {% endif %}
+      </ul>
+    </div>
+  {% endif %}
+</aside>

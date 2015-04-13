@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+
+{% block title %}{{ SITENAME_SHORT }} - {{ article.title }}{% endblock %}
+
+{% block content %}    
+<article class="blog-single-post">
+            <!-- <img src="{{ SITEURL }}/theme/images/blog/blog-item01.jpg" alt="{{ article.title|striptags }}" class="Full " /> -->
+            <div class="col-md-11 omega">
+               {% include 'meta.html' %}
+               <h3><a href="{{ article.url }}" rel="bookmark" title="{{SITENAME}} - {{ article.title|striptags }}">{{ article.title }}</a></h3>
+               {{article.content}}
+            </div>
+            <hr class="vertical-space1">
+         </article>
+
+        {% if DISQUS_SITENAME %}
+        <div class="comments">
+        <h2>Comments</h2>
+            <div id="disqus_thread"></div>
+            <script type="text/javascript">
+               var disqus_identifier = "{{ article.url }}";
+               (function() {
+               var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+               dsq.src = 'http://{{ DISQUS_SITENAME }}.disqus.com/embed.js';
+               (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+              })();
+            </script>
+        </div>
+        {% endif %}
+
+{% endblock %}

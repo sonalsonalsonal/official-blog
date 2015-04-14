@@ -11,7 +11,7 @@ Summary:
 
 Picovico reaches the milestone of 10k photos upload in just 2 weeks of <a href="http://www.picovico.com/blog/picovico-public-beta-release.html" target="_blank">launching</a>. We are really happy to see this tremendous response and can already sense the big wave of photos coming in.
 
-<a href="http://blog.picovico.com/wp-content/uploads/2012/04/picovico_2.png"><img class=" wp-image-96 alignleft" style="margin-bottom: 20px;" title="10,000 Photos Upload" src="http://blog.picovico.com/wp-content/uploads/2012/04/picovico_2.png" alt="" width="500" height="250" /></a>It has definitely added a new energy to Picovico and we are excited to bring in some cool features that would enhance your experience of video making.
+<a href="themes/wp-content/uploads/2012/04/picovico_2.png"><img class=" wp-image-96 alignleft" style="margin-bottom: 20px;" title="10,000 Photos Upload" src="themes/wp-content/uploads/2012/04/picovico_2.png" alt="" width="500" height="250" /></a>It has definitely added a new energy to Picovico and we are excited to bring in some cool features that would enhance your experience of video making.
 
 We are equally proud to inform you that Picovico has the fastest video creation platform, which comes from the sophisticated GPU engine for video processing.
 

@@ -7,7 +7,7 @@ Slug: picovico-video-presentation-tools
 Authors: PICOVICO
 Summary: 
 
-<a href="http://www.picovico.com/blog/wp-content/uploads/2013/03/powerpoint_video.png"><img class="wp-image-379 alignleft" title="powerpoint_video" src="http://www.picovico.com/blog/wp-content/uploads/2013/03/powerpoint_video.png" alt="Powerpoint Video" width="149" height="95" /></a>
+<a href="themes/wp-content/uploads/2013/03/powerpoint_video.png"><img class="wp-image-379 alignleft" title="powerpoint_video" src="themes/wp-content/uploads/2013/03/powerpoint_video.png" alt="Powerpoint Video" width="149" height="95" /></a>
 
 <strong>P</strong>owerpoint presentation tools is taken as an effective tool for presenting your ideas. Its convenient and easy to use too. But then, sometimes it gets so boring with the use of just  bullets and pointers.
 
@@ -18,7 +18,7 @@ How about adding a video to your presentation. Its a great presentation tools to
 <strong></strong><strong>1. Download:
 </strong>You can download your videos from your Picovico account directly into mp4 format to your computer. Open the video you want to download and goto “Video Settings” just above the video screen. Click on “Download” and save the video on your computer.
 
-<a href="http://www.picovico.com/blog/wp-content/uploads/2013/03/picovico_download.png"><img class="aligncenter size-full wp-image-373" title="picovico_download" src="http://www.picovico.com/blog/wp-content/uploads/2013/03/picovico_download.png" alt="" width="851" height="539" /></a> <strong>2. Inserting videos into PowerPoint:</strong>
+<a href="themes/wp-content/uploads/2013/03/picovico_download.png"><img class="aligncenter size-full wp-image-373" title="picovico_download" src="themes/wp-content/uploads/2013/03/picovico_download.png" alt="" width="851" height="539" /></a> <strong>2. Inserting videos into PowerPoint:</strong>
 After you have downloaded the video you want to insert it in your presentation, open your presentation file. Then go to “Insert” tab in the menu bar. There you will find “Movie” at the right end. Choose the “movie from file” option and insert your previously downloaded video from Picovico.
 
 <img class="aligncenter" src="https://lh6.googleusercontent.com/7bml2nb8_w4vxIKbMmgmn62ESepuASdtHUgKo7IO3_vyjVnaSbgmUUZSnwNOPq9uYM4Oztjo_Bq2Hikf3Z5v12sxqIaVYs7gjmuATHm-jh3bJpeZqBv4jmfVeToj9B2c2Q" alt="" width="624px;" height="110px;" />

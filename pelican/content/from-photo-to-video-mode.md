@@ -7,7 +7,7 @@ Slug: from-photo-to-video-mode
 Authors: PICOVICO
 Summary: 
 
-<a href="http://www.picovico.com/blog/wp-content/uploads/2013/03/logo.jpg"><img class="aligncenter size-full wp-image-489" title="logo" src="http://www.picovico.com/blog/wp-content/uploads/2013/03/logo.jpg" alt="from photo to video" width="535" height="55" /></a>
+<a href="themes/wp-content/uploads/2013/03/logo.jpg"><img class="aligncenter size-full wp-image-489" title="logo" src="themes/wp-content/uploads/2013/03/logo.jpg" alt="from photo to video" width="535" height="55" /></a>
 
 <strong>Recently we got covered in India’s leading national daily “The Hindu”.
 </strong><strong>Here is an excerpt: </strong>

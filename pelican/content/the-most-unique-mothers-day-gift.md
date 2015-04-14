@@ -7,7 +7,7 @@ Slug: the-most-unique-mothers-day-gift
 Authors: PICOVICO
 Summary: 
 
-<p dir="ltr"><a href="http://www.picovico.com/blog/wp-content/uploads/2013/05/comic_gift1.jpg"><img class="aligncenter size-full wp-image-545" title="Same gift for mother's day" src="http://www.picovico.com/blog/wp-content/uploads/2013/05/comic_gift1.jpg" alt="Same gift for mother's day" width="832" height="426" /></a></p>
+<p dir="ltr"><a href="themes/wp-content/uploads/2013/05/comic_gift1.jpg"><img class="aligncenter size-full wp-image-545" title="Same gift for mother's day" src="themes/wp-content/uploads/2013/05/comic_gift1.jpg" alt="Same gift for mother's day" width="832" height="426" /></a></p>
 <p dir="ltr">Hah.. Hope this doesn't happen to you.</p>
 <p dir="ltr"><a title="Mother's Day" href="http://www.picovico.com/blog/make-this-mothers-day-more-special-with-picovico.html" target="_blank">Mother’s day</a> is approaching and we all hope to bring the most unique <a title="A Gift for your mom" href="http://www.picovico.com/blog/a-gift-for-your-mom.html" target="_blank">gift for our mothers</a>. But it seems, things doesn't turn out as we think it to be. Why not try something at which we cannot fail. Infusing your gift with your personality will assure that, won’t it? Do something more thoughtful this time to make her feel special. <a title="Create a video" href="http://www.picovico.com/iphone" target="_blank">Create</a> a <a title="How to create video using Picovico" href="http://www.picovico.com/blog/how-to-make-a-video.html" target="_blank">personalized video</a> of you and your mother that no one else can make. Here are some video ideas to start with:</p>
 <strong>1. She means the world to me</strong>

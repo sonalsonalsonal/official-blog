@@ -7,7 +7,7 @@ Slug: picovico-gets-featured-on-yourstory-in
 Authors: PICOVICO
 Summary: 
 
-<strong id="internal-source-marker_0.8616769430227578"></strong><a href="http://www.picovico.com/blog/wp-content/uploads/2013/03/yslogo-black.png"><img class=" wp-image-417 alignleft" title="yourstory logo" src="http://www.picovico.com/blog/wp-content/uploads/2013/03/yslogo-black-300x84.png" alt="picovico" width="192" height="54" /></a><strong></strong>
+<strong id="internal-source-marker_0.8616769430227578"></strong><a href="themes/wp-content/uploads/2013/03/yslogo-black.png"><img class=" wp-image-417 alignleft" title="yourstory logo" src="themes/wp-content/uploads/2013/03/yslogo-black-300x84.png" alt="picovico" width="192" height="54" /></a><strong></strong>
 
 <strong>It</strong><span> feels great when one gets recognized for the effort and hard work one puts in his/her work. We felt the same when </span><strong><a title="Slideshow Maker" href="www.picovico.com" target="_blank">Picovico</a></strong><span> was featured in India’s leading online platform for entrepreneurs - </span><a href="http://yourstory.in/" target="_blank">Yourstory.in</a><span>.</span>
 

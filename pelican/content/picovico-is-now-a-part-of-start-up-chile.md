@@ -9,7 +9,7 @@ Summary:
 
 We are so excited to share with you this good news - we are now a part of startup chile. Yea, <a href="http://www.picovico.com/" target="_blank">Picovico</a> has been selected for Start-Up Chile’s fifth generation.
 
-<a href="http://www.picovico.com/blog/wp-content/uploads/2012/09/Start-Up-Chile-20121.jpg"><img class="aligncenter  wp-image-166" title="Start-Up Chile 2012" src="http://www.picovico.com/blog/wp-content/uploads/2012/09/Start-Up-Chile-20121.jpg" alt="Picovico Journey to Chile" width="510" height="300" /></a>
+<a href="themes/wp-content/uploads/2012/09/Start-Up-Chile-20121.jpg"><img class="aligncenter  wp-image-166" title="Start-Up Chile 2012" src="themes/wp-content/uploads/2012/09/Start-Up-Chile-20121.jpg" alt="Picovico Journey to Chile" width="510" height="300" /></a>
 
 <a href="http://startupchile.org/" target="_blank">Start-up Chile</a> is a program created by the Govt. of Chile that seeks to attract high-potential entrepreneurs to bootstrap their startups in Chile, using it as a platform to go global.
 

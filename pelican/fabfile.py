@@ -63,6 +63,7 @@ def cf_upload():
 
 def github():
 	rebuild()
+	local('echo blog.picovico.com > output/CNAME')
 	local('ghp-import output')
 	local('git push origin gh-pages')
 

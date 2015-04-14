@@ -1,0 +1,24 @@
+# your files path
+path:
+  # template: pelican/extent/templates
+  css: pelican/extent/static/css
+  js: pelican/extent/static/js
+
+# compressor results path
+output:
+  ; template: compressor/templates/
+  css: compressor/pelican/extent/static/css
+  js: compressor/pelican/extent/static/js
+
+# pattern to find tags in html code
+pattern:
+  css: ../media/css
+  js: ../media/js
+  img: ../media/img
+
+# filter url tags
+filter:
+  url: 
+    css: http://demo.pycompressor.com/media/css
+    js: http://demo.pycompressor.com/media/js
+    img: http://demo.pycompressor.com/media/img

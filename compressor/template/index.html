@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block title %}{{ SITENAME }} - Accueil{% endblock %}
+
+{% block content %}
+ {% if articles %}
+  {% for article in (articles_page.object_list if articles_page else articles) %}  
+   {% include 'article_snippet.html' %}
+  {% endfor %}
+ {% endif %}
+{% endblock %}

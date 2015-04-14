@@ -1,0 +1,43 @@
+site_name: Picovico - Official Blog
+site_url: http://blog.picovico.com/
+site_decription: When we speak from our HQ
+docs_dir: posts
+theme: readthedocs
+
+repo_url: https://github.com/picovico/official-blog
+
+mkdocs_extensions:
+- mkdocs_tree
+- mkdocs_autodoc
+
+pages:
+- ["index.md", "Home"]
+- ['tree:2015/', '2015', '2015']
+- ["picovico-collaborates-with-rotaract-for-video-contest.md", "Picovico collaborates with Rotaract for video contest "]
+- ["when-we-reached-50k-installs-of-picovico-slideshow-maker-on-android.md", "When we reached 50K installs of Picovico Slideshow Maker on Android"]
+- ["how-to-create-a-photo-slideshow-video-with-music-on-android.md", "How to create a slideshow video with music on Android?"]
+- ["behind-the-blinds_slideshow-style.md", "Behind the 'Blinds'"]
+- ["share-moments-of-2014-with-a-yearbook-video-in-picovico.md", "What made 2014 your year awesome? Share with a Yearbook video!"]
+- ["lets-picovico-this-christmas.md", "Let's Picovico this Christmas with beautiful videos! "]
+- ["gift-your-loved-ones-a-picovico-video-this-season.md", "Gift your loved ones a Picovico video this season!"]
+- ["happy-fathers-day.md", "Happy Father's Day"]
+- ["picovico-gets-featured-in-pandodaily.md", "Picovico gets featured in PandoDaily"]
+- ["google-io-2013-extended-to-be-held-in-kathmandu.md", "Google I/O 2013 Extended to be Held in Kathmandu"]
+- ["make-this-mothers-day-more-special-with-picovico.md", "Make this Mother's Day a memorable one with an equally memorable video"]
+- ["the-most-unique-mothers-day-gift.md", "The Most Unique Mother's Day Gift"]
+- ["picovico-at-the-global-entrepreneurship-congress-2013.md", "Picovico at the Global Entrepreneurship Congress 2013"]
+- ["celebrate-st-patricks-day-with-picovico.md", "Celebrate St. Patrick's Day with Picovico"]
+- ["picovico-video-presentation-tools.md", "Picovico Videos as Strong Presentation Tools"]
+- ["how-to-make-a-video.md", "How to make a video using Picovico"]
+- ["this-valentines-day-say-it-the-picovico-way.md", "This Valentine's Day Say It The Picovico Way "]
+- ["merry-christmas-and-happy-holidays.md", "Merry Christmas and Happy Holidays!!!"]
+- ["picovico-speaks-espanol-and-japanese.md", "Picovico now available in Espanol and Japanese."]
+- ["from-photo-to-video-mode.md", "From Photo to Video Mode "]
+- ["picovico-is-now-a-part-of-start-up-chile.md", "Picovico is now a part of \"Start-Up Chile\""]
+- ["have-a-story-express.md", "Have a Story? - Express"]
+- ["a-gift-for-your-mom.md", "A Gift for your Mom"]
+- ["10000-photos-upload.md", "10,000+ Photos Upload"]
+- ["let-your-video-go-social.md", "Let your video go social!"]
+- ["picovico-gets-featured-on-yourstory-in.md", "Picovico gets featured on Yourstory.in"]
+- ["picovico-public-beta-release.md", "Public Beta Release"]
+- ["introducing-picovico.md", "Introducing Picovico"]

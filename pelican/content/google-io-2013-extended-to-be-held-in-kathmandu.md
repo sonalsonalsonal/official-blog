@@ -7,7 +7,7 @@ Slug: google-io-2013-extended-to-be-held-in-kathmandu
 Authors: PICOVICO
 Summary: 
 
-<p dir="ltr"><a href="themes/wp-content/uploads/2013/05/google-io.jpg"><img class="aligncenter size-full wp-image-599" title="google io" src="themes/wp-content/uploads/2013/05/google-io.jpg" alt="google io" width="851" height="315" /></a></p>
+<p dir="ltr"><a href="theme/wp-content/uploads/2013/05/google-io.jpg"><img class="aligncenter size-full wp-image-599" title="google io" src="theme/wp-content/uploads/2013/05/google-io.jpg" alt="google io" width="851" height="315" /></a></p>
 <p dir="ltr">Every year in San Francisco, Google organizes an event entirely focused on the developer. The event started in 2008 was named as <strong>Google I/O</strong> where "I" and "O" stand for input/output, and <em>"Innovation in the Open"</em>.</p>
 <p dir="ltr"><a title="Google I/O" href="https://developers.google.com/events/io/" target="_blank">Google I/O</a> features highly technical, in-depth sessions focused on building web, mobile, and enterprise applications with <a title="Google" href="http://www.google.com" target="_blank">Google</a> and open web technologies such as Android, Chrome, Chrome OS, Google APIs, Google Web Toolkit, App Engine, and more.</p>
 <p dir="ltr">The most exciting thing about this event is that, Google giveaways its latest gadgets in making to the attendees and this time the attendees are expecting to lay their hands on Google Glass. Amazingly, even the tickets gets sold out within minutes of its opening and this time It took only 49 minutes for all the $900 (or $300 for school students and faculty) tickets to get sold out, even with the added requirement that registrants must have both Google+ and Google Wallet accounts.</p>

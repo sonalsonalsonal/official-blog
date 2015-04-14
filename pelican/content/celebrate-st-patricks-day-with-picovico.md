@@ -7,7 +7,7 @@ Slug: celebrate-st-patricks-day-with-picovico
 Authors: PICOVICO
 Summary: 
 
-<a href="themes/wp-content/uploads/2013/03/Patricks-day_picovico.jpg"><img class="aligncenter size-full wp-image-445" title="Patricks day_picovico" src="themes/wp-content/uploads/2013/03/Patricks-day_picovico.jpg" alt="St. Patrick's day" width="751" height="250" /></a><strong>W</strong>hat comes to your mind when we say “St. Patrick’s Day”? - The color green, gold, shamrocks and luck. Dance, music, Irish food and drinks; whatever you do on this day must be fun. Green-gold is the theme, so go green otherwise you will be pinched ;)
+<a href="theme/wp-content/uploads/2013/03/Patricks-day_picovico.jpg"><img class="aligncenter size-full wp-image-445" title="Patricks day_picovico" src="theme/wp-content/uploads/2013/03/Patricks-day_picovico.jpg" alt="St. Patrick's day" width="751" height="250" /></a><strong>W</strong>hat comes to your mind when we say “St. Patrick’s Day”? - The color green, gold, shamrocks and luck. Dance, music, Irish food and drinks; whatever you do on this day must be fun. Green-gold is the theme, so go green otherwise you will be pinched ;)
 
 Memories of getting drunk, trying Irish food, dancing to a local Irish song, and making friends during celebration lasts for a lifetime. Obviously, you gotta capture those moments and converting them into a video would be a good idea. Don’t you think so? Well, we think its perfect.
 

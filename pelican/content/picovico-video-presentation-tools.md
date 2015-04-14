@@ -7,7 +7,7 @@ Slug: picovico-video-presentation-tools
 Authors: PICOVICO
 Summary: 
 
-<a href="http://www.picovico.com/blog/wp-content/uploads/2013/03/powerpoint_video.png"><img class="wp-image-379 alignleft" title="powerpoint_video" src="http://www.picovico.com/blog/wp-content/uploads/2013/03/powerpoint_video.png" alt="" width="149" height="95" /></a>
+<a href="http://www.picovico.com/blog/wp-content/uploads/2013/03/powerpoint_video.png"><img class="wp-image-379 alignleft" title="powerpoint_video" src="http://www.picovico.com/blog/wp-content/uploads/2013/03/powerpoint_video.png" alt="Powerpoint Video" width="149" height="95" /></a>
 
 <strong>P</strong>owerpoint presentation tools is taken as an effective tool for presenting your ideas. Its convenient and easy to use too. But then, sometimes it gets so boring with the use of just  bullets and pointers.
 

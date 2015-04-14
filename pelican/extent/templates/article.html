@@ -2,12 +2,34 @@
 
 {% block title %}{{ SITENAME_SHORT }} - {{ article.title }}{% endblock %}
 
+{% block socialgraph %}
+    <meta name="application-name" content="Picovico" />
+    <meta property="fb:app_id" content="150333628356928" />
+    <meta name="application-url" content="" />
+    <meta property="og:site_name" content="Picovico Blog"/>
+    <meta property="og:title" content="{{ article.title|striptags }}" />
+    <meta property="og:description" content="{% if article.summary|length > 0 %}{{article.summary}}{% else %}{{ article.content|striptags|truncate(100, True) }}{% endif %}"/>
+    <meta property="og:image" content="{{ SITEURL }}/themes/images/logo.png" />
+    <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}"/>
+    <meta property="fb:admins" content="515324669"/>
+    
+    <link rel="image_src" href="{{ SITEURL }}/themes/images/logo.png" />
+
+    <meta name="twitter:site" value="@picovico" />
+    <meta name="twitter:url" value="{{ SITEURL }}/{{ article.url }}"/>
+    <meta name="twitter:title" value="{{ article.title|striptags }}" />
+    <meta name="twitter:description" value="{% if article.summary|length > 0 %}{{article.summary}}{% else %}{{ article.content|striptags|truncate(100, True) }}{% endif %}" />
+
+    <meta name="twitter:image" value="{{ SITEURL }}/themes/images/logo.png" />
+{% endblock %}
+
+
 {% block content %}    
 <article class="blog-post">
             <!-- <img src="{{ SITEURL }}/theme/images/blog/blog-item01.jpg" alt="{{ article.title|striptags }}" class="Full " /> -->
             <div class="col-md-11 omega">
                {% include 'meta.html' %}
-               <h3><a href="{{ article.url }}" rel="bookmark" title="{{SITENAME}} - {{ article.title|striptags }}">{{ article.title }}</a></h3>
+               <h3><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="{{SITENAME}} - {{ article.title|striptags }}">{{ article.title }}</a></h3>
                {{article.content}}
             </div>
             <hr class="vertical-space1">

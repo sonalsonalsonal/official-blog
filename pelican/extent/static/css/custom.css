@@ -1,0 +1,17 @@
+body.blog #wrap{
+    background: white;
+}
+
+body.blog #headline{
+  background: #101010;
+  color: white;
+}
+
+
+.blog-post a{
+  color: #d32f2f;
+}
+
+.blog-post a:hover{
+  color: #101010;
+  }

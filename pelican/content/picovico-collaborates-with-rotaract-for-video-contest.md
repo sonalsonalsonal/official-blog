@@ -5,6 +5,7 @@ Category:
 Slug: picovico-collaborates-with-rotaract-for-video-contest
 Authors: PICOVICO
 Summary: 
+Image: theme/images/logo.png
 
 Rotaract Nepal and Picovico have together launched a video making contest for both members and non-members. Rotaract's recent meeting held in Kathmandu saw members and presidents from different Rotaract Chapters throughout Nepal be a part of a day-long session. This session discussed on taking clubs forward, training to improve club activities and planning the upcoming year at the clubs. And as a part of the drive to engage people more with the club, the video contest was launched.
 

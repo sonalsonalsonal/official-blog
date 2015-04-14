@@ -6,7 +6,11 @@
       {% include 'meta.html' %}
       <h3><a href="{{ article.url }}" rel="bookmark" title="{{SITENAME}} - {{ article.title|striptags }}">{{ article.title }}</a></h3>
       <p>
-      {{ article.summary }}
+	  {% if article.summary and article.summary|length > 0 %}
+	      {{ article.summary }}
+	  {% else %}
+			{{ article.content|striptags|truncate(300, True) }}
+	  {% endif %}
       <br><br><a class="readmore" href="{{ SITEURL }}/{{ article.url }}">Read More</a></p>
    </div>
    <hr class="vertical-space1">

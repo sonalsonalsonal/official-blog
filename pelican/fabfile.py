@@ -27,6 +27,9 @@ def clean():
 def build():
     local('pelican -s pelicanconf.py')
 
+def productionbuild():
+    local('pelican -s publishconf.py')
+
 def rebuild():
     clean()
     build()
@@ -62,7 +65,7 @@ def cf_upload():
           'upload -c {cloudfiles_container} .'.format(**env))
 
 def github():
-	rebuild()
+	productionbuild()
 	local('echo blog.picovico.com > output/CNAME')
 	local('ghp-import output')
 	local('git push origin gh-pages')

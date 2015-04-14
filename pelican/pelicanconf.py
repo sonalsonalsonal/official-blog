@@ -4,6 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Picovico'
 SITENAME = u'Picovico Blog'
+SITENAME_SHORT = "PICOVICO"
 SITEURL = ''
 
 PATH = 'content'
@@ -21,7 +22,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('Picovico Official Website', 'http://picovico.com/'),
-         ('Picovico on Android', 'http://picovico.com/android/'),
+         ('Picovico on Android', 'http://picovico.com/android'),
          ('Picovico for Business', 'http://picovico.com/business/'),
          ('Developer API', 'http://api.picovico.com'),)
 
@@ -37,6 +38,7 @@ SOCIAL = (('Facebook', 'http://facebook.com/picovico'),
 DEFAULT_PAGINATION = 10
 
 DISQUS_SITENAME = "picovico"
+GOOGLE_ANALYTICS = "UA-56213136-6"
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True

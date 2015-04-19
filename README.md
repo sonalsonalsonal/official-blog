@@ -1,5 +1,5 @@
 # official-blog
-The Official Blog for Picovico (blog.picovico.com)
+The Official Blog for Picovico [blog.picovico.com](http://blog.picovico.com)
 
 After we chose to move our blog to github, the first question was how to manage the static pages. 
 
@@ -9,5 +9,9 @@ After we chose to move our blog to github, the first question was how to manage 
 - pelican - (when one of our mates suggested to try pelican), ([@acpmasquerade](//github.com/acpmasquerade) had been looking easier templating, and few other assisting commands. Including some proper deploy assistant)
 
 Hence we chose [pelican](//github.com/getpelican). (Thanks to [@ludbek](//github.com/ludbek) for his suggestion.)
-@acpmasquerade says he is too happy with his decision to move the blog, and (em)power it with [@getpelican](//github.com/getpelican) and @github.
+[@acpmasquerade](//github.com/acpmasquerade) says he is too happy with his decision to move the blog, and (em)power it with [@getpelican](//github.com/getpelican) and @github.
 
+###Thank You
+@acpmasquerde
+@ludbek
+@theyogee

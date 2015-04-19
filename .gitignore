@@ -64,3 +64,5 @@ blog-sql.sql.zip
 site/
 pelican/output
 pelican/cache
+pelican.pid
+srv.pid

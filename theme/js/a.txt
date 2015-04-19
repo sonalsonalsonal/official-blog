@@ -1,0 +1,9 @@
+<li><img src="{{SITEURL}}/theme/images/selfie/i_addcontent_3.png.jpg" /></li>
+<li><img src="{{SITEURL}}/theme/images/selfie/i_login_1.png.jpg" /></li>
+<li><img src="{{SITEURL}}/theme/images/selfie/i_myvideos_2.png.jpg" /></li>
+<li><img src="{{SITEURL}}/theme/images/selfie/i_profile_8.png.jpg" /></li>
+<li><img src="{{SITEURL}}/theme/images/selfie/i_selectmusic_5.png.jpg" /></li>
+<li><img src="{{SITEURL}}/theme/images/selfie/i_splash_0.png.jpg" /></li>
+<li><img src="{{SITEURL}}/theme/images/selfie/i_stylepreview_7.png.jpg" /></li>
+<li><img src="{{SITEURL}}/theme/images/selfie/i_uploadimages_4.png.jpg" /></li>
+<li><img src="{{SITEURL}}/theme/images/selfie/i_videostyle_6.png.jpg" /></li>

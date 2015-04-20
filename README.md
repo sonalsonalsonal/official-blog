@@ -11,6 +11,9 @@ After we chose to move our blog to github, the first question was how to manage 
 Hence we chose [pelican](//github.com/getpelican). (Thanks to [@ludbek](//github.com/ludbek) for his suggestion.)
 [@acpmasquerade](//github.com/acpmasquerade) says he is too happy with his decision to move the blog, and (em)power it with [@getpelican](//github.com/getpelican) and @github.
 
+## To Update content
+Please modify content inside `pelican/content` folder
+
 ###Thank You
 @acpmasquerde
 @ludbek

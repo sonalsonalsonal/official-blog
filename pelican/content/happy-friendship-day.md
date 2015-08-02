@@ -1,4 +1,10 @@
-
+Title:Celebrating Friendship Day 
+Date: 2015-08-02 03:50:10 
+Modified: 2015-08-02 03:54:10 
+Category: 
+Slug: picovico-celebrates-frienship-day-with-free-hd-slideshow-videos 
+Authors: PICOVICO 
+Summary: Wish you a happy frienship day. There is a little gift inside. 
 
 Friendship is a priceless relationship between individuals that creates bonds. Thousands of fun moments are reminisced as the friendship day arrives. This day to most of the people, is a very special day, a day when they celebrate and cherish the joy of being a friend or a buddy to someone.
 

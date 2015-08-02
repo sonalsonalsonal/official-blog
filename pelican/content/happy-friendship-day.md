@@ -9,7 +9,7 @@ Summary: Wish you a happy frienship day. There is a little gift inside. Celebrat
 Friendship is a priceless relationship between individuals that creates bonds. Thousands of fun moments are reminisced as the friendship day arrives. This day to most of the people, is a very special day, a day when they celebrate and cherish the joy of being a friend or a buddy to someone.
 
 ![Upgrade to Picovico premium account on web by entering this coupon code.]
-(https://drive.google.com/file/d/0B08iXFS5BSjWcF9uS3lWS00wbUk/view?usp=sharing)
+(theme/images/you-are-simply-the-one.jpg)
 <small>Picovico- The Slideshow Video Maker celebrates friendship day.</small>
  
 Picovico is built on such friendships. Our founders are college time friends and have been rowing their life together through all the highs and lows. We believe friends are not just people to hang out with but they are also people that have passions and sentiments in mutual. Friends are there to always lend a shoulder. One talks to the family members about family matters, but when there are matters regarding personal feelings, thoughts and even ideas, one seeks for a companion with whom they feel safe and secure to share about anything.

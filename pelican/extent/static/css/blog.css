@@ -300,5 +300,10 @@
 	.blog-post .col-md-6 { width:45%;}
 	.blog-post .col-md-1, .blog-post .col-md-2, .blog-post .col-md-5, .blog-post .col-md-6, .blog-post .col-md-10 { float:left;}	
 	}
+
+	/** Extras **/
+	.blog-post ul{margin-top: -25px; }
+	.blog-post h4{font-weight: bold; font-size: 1.8em}
+	.blog-post ul li{border-bottom: 1px solid #eee; line-height: 2em; padding-left: 15px;}
 	
 /* -------- end ----------- */

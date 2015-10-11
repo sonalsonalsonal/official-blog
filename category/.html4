@@ -654,7 +654,7 @@
    <hr class="vertical-space1">
 </article>         <br class="clear">
     <div class='wp-pagenavi'>
-            <span class='pages'>Page 2 of 4</span>
+            <span class='pages'>Page 4 of 4</span>
 
 
 
@@ -671,11 +671,10 @@
             <!-- <a href='#' class='nextpostslink'>&raquo;</a> -->
 
 
-            <a href="http://blog.picovico.com/category/.html">&#60;&#60;</a>
+            <a href="http://blog.picovico.com/category/3.html">&#60;&#60;</a>
 
 
 
-            <a href='http://blog.picovico.com/category/3.html' class='page larger'>Next &raquo;</a>
 
 
 

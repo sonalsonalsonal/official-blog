@@ -52,5 +52,7 @@ body.blog #headline{
     }
     #nav-wrap h1{
       text-align: left;
+      line-height: 2em;
+      font-size: 1.7em;
     }
   }

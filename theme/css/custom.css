@@ -7,7 +7,6 @@ body.blog #headline{
   color: white;
 }
 
-
 .blog-post a{
   color: #d32f2f;
 }
@@ -32,6 +31,11 @@ body.blog #headline{
     padding-right: 25% !important;
   }
 
+  @media only screen and (max-width: 479px){
+    .container {
+        width:90%;
+    }
+  }
 
   @media only screen and (max-width: 959px){
     #header{
@@ -52,7 +56,17 @@ body.blog #headline{
     }
     #nav-wrap h1{
       text-align: left;
-      line-height: 2em;
-      font-size: 1.7em;
+      line-height: 1.1em;
+      font-size: 1.5em;
+      font-weight: bold;
+      text-align: center;
+      font-weight: 500;
+      color: #d32f2f;
+      margin-top: 0.5em;
+      background: #efefef;
+      padding: 0.5em;
+    }
+    #headline{
+      margin-top: 25px;
     }
   }

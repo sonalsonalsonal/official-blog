@@ -21,7 +21,9 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Picovico Official Website', 'http://picovico.com/'),
+LINKS = (
+        ('Picovico Official Website', 'http://picovico.com/'),
+        ('The new Picovio Web', 'https://web.picovico.com/'),
          ('Picovico on Android', 'http://picovico.com/android'),
          ('Picovico for Business', 'http://picovico.com/business/'),
          ('Developer API', 'http://api.picovico.com'),)

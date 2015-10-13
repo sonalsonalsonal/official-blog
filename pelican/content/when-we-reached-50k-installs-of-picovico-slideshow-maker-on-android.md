@@ -1,10 +1,10 @@
-Title: When we reached 50K installs of Picovico Slideshow Maker on Android
+Title: 50K installs of Picovico Slideshow Maker on Android
 Date: 2015-04-03 06:34:10
 Modified: 2015-04-03 06:34:10
 Category: 
 Slug: when-we-reached-50k-installs-of-picovico-slideshow-maker-on-android
 Authors: PICOVICO
-Summary: Picovico crosses 50K installs on 1st April, 2015.
+Summary: Picovico crosses 50K installs on 1st April, 2015. It was a freaking co-incidence for some of our friends :) 
 
 On April 1, one of our friends leaked the news that we, along with another few, were being acquired by Google. You guessed it right- a prank obviously. But the write-up he put up in his blog actually made few people believe it and they ended up calling us asking about the valuation. Later, the same day, we ran the news that our Android app-<a href="https://play.google.com/store/apps/details?id=com.picovico.android">Picovico Slideshow Maker</a> crossed the 50,000 installs mark on Play store. And as expected nobody believed it- thanks to the date again.
 

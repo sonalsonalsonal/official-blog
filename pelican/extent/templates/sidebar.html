@@ -33,7 +33,7 @@
       height: auto;
     }
   </style>
-  <div class="widget" id="picovico-banner">
+  <div class="widget" id="picovico-banner" style="display:none">
       <div class="widget-inner">
 	<div id="owl-pv-items">
         <div><a href="http://www.picovico.com/"><img src="{{SITEURL}}/theme/images/selfie/i_addcontent_3.png.jpg"  /></a></div>
@@ -94,11 +94,11 @@ s0.parentNode.insertBefore(s1,s0);
     </div>
  {% endif %}
 
- {% if FEED or FEED_RSS %}
+ {% if FEED_ATOM or FEED_RSS %}
     <div class="widget" id="subscribe">
     <h2>Feeds</h2>
       <ul>
-        <li><a href="{{ SITEURL }}/{{ FEED }}" rel="alternate">ATOM</a></li>
+        <li><a href="{{ SITEURL }}/{{ FEED_ATOM }}" rel="alternate">ATOM</a></li>
         {% if FEED_RSS %}
         <li><a href="{{ SITEURL }}/{{ FEED_RSS }}" rel="alternate">RSS</a></li>
         {% endif %}

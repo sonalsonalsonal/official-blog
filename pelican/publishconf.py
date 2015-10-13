@@ -13,7 +13,10 @@ from pelicanconf import *
 SITEURL = 'http://blog.picovico.com'
 RELATIVE_URLS = False
 
+FEED_ATOM = 'feeds/rss.xml'
+FEED_RSS = 'feeds/rss.xml'
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
+FEED_ALL_RSS = 'feeds/all.rss.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True

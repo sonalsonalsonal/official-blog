@@ -4,7 +4,7 @@ Modified: 2015-03-06 06:34:21
 Category: 
 Slug: how-to-create-a-photo-slideshow-video-with-music-on-android
 Authors: PICOVICO
-Summary: 
+Summary: Creating a slideshow on Android device can be a daunting task. Let's make it easier with Picovico.
 
 For those who are new to Picovico, let us tell you- creating a slideshow on Android device can be a daunting task if you are not using the right tool. But with Picovico's Android app, this experience can be pretty awesome to fall in love with.
 

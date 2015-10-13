@@ -5,7 +5,7 @@ Category:
 Tags: Release,feature,yearbook,style,2015
 Slug: share-moments-of-2014-with-a-yearbook-video-in-picovico
 Authors: PICOVICO
-Summary: 
+Summary: Share the best moments of 2014 with a video using Picovico. Choose our painted style - "YearBook"
 
 <h3>Share the best moments of 2014 with a Yearbook video using Picovico</h3>
 [caption id="" align="aligncenter" width="1093" caption="Picovico&#39;s Yearbook Style to share best moments of the year that just passed."]<img title="Picovico's Yearbook Style to share your best moments of the year that just passed. " src="theme/wp-content/uploads/2014/12/Yearbook-Screenshot.jpg" alt="Yearbook Style video slideshow in Picovico" width="1093" height="591" />[/caption]

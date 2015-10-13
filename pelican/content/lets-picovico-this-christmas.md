@@ -5,9 +5,10 @@ Category:
 Tags: picovico,christmas,themes,new themes
 Slug: lets-picovico-this-christmas
 Authors: PICOVICO
-Summary: 
+Summary: Convert your Christmas celebration pictures into beautiful videos.
 
-<h3>Convert your Christmas celebration pictures into beautiful videos.</h3>
+####Convert your Christmas celebration pictures into beautiful videos.
+
 <p align="justify">
 <img src="http://s3-us-west-2.amazonaws.com/pv-styles/christmas/pv_christmas_winter_themes.png" alt="Picovico" />
 We just launched two brand new video styles designed around Christmas theme. After days of designing, Picovico team brings you Christmas dedicated video styles so that you can share your pictures in an even attractive way this season.</p>

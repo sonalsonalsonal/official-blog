@@ -1,17 +1,21 @@
-<article class="blog-post">
+<article class="blog-post blog-snippet">
    {% if article.image %}
       <img src="{{ article.image }}" alt="{{ article.title }}" class="Full " />
    {% endif %}
    <div class="col-md-11 omega">
       {% include 'meta.html' %}
-      <h3><a href="{{ article.url }}" rel="bookmark" title="{{SITENAME}} - {{ article.title|striptags }}">{{ article.title }}</a></h3>
-      <p>
-	  {% if article.summary and article.summary|length > 0 %}
-	      {{ article.summary }}
-	  {% else %}
-			{{ article.content|striptags|truncate(300, True) }}
-	  {% endif %}
-      <br><br><a class="readmore" href="{{ SITEURL }}/{{ article.url }}">Read More</a></p>
+      <h3>
+         <a href="{{ article.url }}" rel="bookmark" title="{{SITENAME}} - {{ article.title|striptags }}">{{ article.title }}</a>
+      </h3>
+      <div class="summary" >
+   	  {% if article.summary and article.summary|length > 0 %}
+   	      {{ article.summary }}
+   	  {% else %}
+   			<p>{{ article.content|striptags|truncate(300, True) }}</p>
+   	  {% endif %}
+         <a class="readmore" href="{{ SITEURL }}/{{ article.url }}">Read More</a>
+      </div>
+      <!-- <a class="readmore" href="{{ SITEURL }}/{{ article.url }}">Read More</a> -->
    </div>
    <hr class="vertical-space1">
 </article>

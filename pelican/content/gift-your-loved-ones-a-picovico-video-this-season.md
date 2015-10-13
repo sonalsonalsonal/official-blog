@@ -5,7 +5,7 @@ Category:
 Tags: picovico,Holidays,android update
 Slug: gift-your-loved-ones-a-picovico-video-this-season
 Authors: PICOVICO
-Summary: 
+Summary: We have revived. We are 2.0 starting from today. Let's Picovico. Let's gift a Picovico.
 
 <div>
 

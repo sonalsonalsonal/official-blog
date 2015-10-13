@@ -5,7 +5,7 @@ Category:
 Tags: Slideshow Maker,style,Blinds
 Slug: behind-the-blinds_slideshow-style
 Authors: PICOVICO
-Summary: 
+Summary: Yes, we have a new PREMIUM style to add to our list.
 
 The latest addition in the collection of our video styles is (ta-da)- BLINDS.
 <div class="mceTemp mceIEcenter" style="text-align: center;"><dl id="attachment_794" class="wp-caption aligncenter" style="width: 422px;"><dt class="wp-caption-dt"><a href="theme/wp-content/uploads/2015/03/Blinds1.png"><img class=" wp-image-794 " title="Blinds" src="theme/wp-content/uploads/2015/03/Blinds1.png" alt="Blinds Style" width="412" height="418" /></a></dt><dd class="wp-caption-dd">Impressions unfolded with the Blinds</dd></dl></div>

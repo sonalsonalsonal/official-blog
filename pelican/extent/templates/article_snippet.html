@@ -1,4 +1,4 @@
-<article class="blog-post blog-snippet">
+<article class="blog-post blog-snippet" data-tags="{% include 'article_tags_blog_class.html' %}">
    {% if article.image %}
       <img src="{{ article.image }}" alt="{{ article.title }}" class="Full " />
    {% endif %}
@@ -11,7 +11,7 @@
    	  {% if article.summary and article.summary|length > 0 %}
    	      {{ article.summary }}
    	  {% else %}
-   			<p>{{ article.content|striptags|truncate(300, True) }}</p>
+   			<p>{{ article.content|striptags|truncate(400, True) }}</p>
    	  {% endif %}
          <a class="readmore" href="{{ SITEURL }}/{{ article.url }}">Read More</a>
       </div>

@@ -2,7 +2,7 @@ Title: Behind the 'Blinds'
 Date: 2015-03-06 05:59:40
 Modified: 2015-03-06 05:59:40
 Category: 
-Tags: Slideshow Maker,style,Blinds
+Tags: Slideshow Maker,Style,Blinds, Release
 Slug: behind-the-blinds_slideshow-style
 Authors: PICOVICO
 Summary: Yes, we have a new PREMIUM style to add to our list.

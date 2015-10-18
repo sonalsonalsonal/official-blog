@@ -84,3 +84,20 @@ li{
   display: block;
   margin:1em 0;
 }
+
+@media(min-width: 767px){
+  .article-block-right h3{font-size: 22px; line-height: 22px;}
+  .article-block-right div.summary p{font-size: 15px; max-height: 160px; overflow: hidden;}
+  .article-block-right .blog-date{padding-top:10px; padding-bottom: 10px !important}
+}
+
+article[data-tags~="release"]{
+  background: lightgoldenrodyellow;
+  border:1px solid rgba(200, 0, 0, 0.3);
+  border-top-width: 5px;
+  padding:1em;
+}
+
+article[data-tags~="how-to"]{
+  /*background: lightgoldenrodyellow;*/
+}

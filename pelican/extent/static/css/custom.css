@@ -70,3 +70,17 @@ body.blog #headline{
       margin-top: 25px;
     }
   }
+
+ul, ol{margin-left: 25px;}
+
+li{
+  color: #DE6C6C;
+  font-size: 1.1em;
+  line-height: 1.5em;
+}
+
+#wrap p img, #wrap li img{
+  border:1px solid #ccc;
+  display: block;
+  margin:1em 0;
+}

@@ -9,25 +9,25 @@ Summary: Picovico had recently launched its premium version with lots of excitin
 
 Picovico had recently launched its premium version with lots of exciting new features. With Picovico Premium, you can make stunning videos in High Resoultion (HD) with 6 new and clean elite video themes that include:
 
-+ 'Blinds' that includes picture-folding animation.
-+ 'Focus' that highlights the best part of your photos.
-+ 'Lines' that adds motion to your photos. 
-+ 'Bokeh' and 'Bokeh Lights' that enhance your photos with sparkling background animation. 
++ __Blinds__ that includes picture-folding animation.
++ __Focus__ that highlights the best part of your photos.
++ __Lines__ that adds motion to your photos. 
++ __Bokeh__ and __Bokeh Lights__ that enhance your photos with sparkling background animation. 
 
-![HD Videos](https://www.dropbox.com/s/0c73ze0ugqj0biw/sd_hd.png?dl=0)
+![HD Videos](/theme/images/blog-articles/knowledgebase/upgrade-account/sd_hd.jpg)
 
 Picovico premium also allows you to add a CTA button into your Picovico video content with the easiest way possible.
 In addition, you can also upload photos and music size up to 12 MB and 40 MB respectively with 100 photos and 100 slides per video with the premium account. This size is only limited to 6 MB for photos and 15 MB for music in the standard account. With this massive size availability, you can create standout videos for your personal as well as business purposes.
 
-#### Here's how you can upgrade your Picovico account to premium: 
+#### Here&#8217;s how you can upgrade your Picovico account to premium: 
 
-1. After you've logged into your account, click on _Upgrade Account_, on the top right corner of the page.
+1. After you&#8217;ve logged into your account, click on _Upgrade Account_, on the top right corner of the page.
 
-![upgrade videos](https://www.dropbox.com/s/v90mtkvu5gopa1i/upgrade.png?dl=0)
+![upgrade videos](/theme/images/blog-articles/knowledgebase/upgrade-account/upgrade.jpg)
 
-2. In the next page, you’ll see a features overview for Standard and Premium Account. Click on _Buy Now_ button for Premium account. 
+2. In the next page, you&#8217;ll see a features overview for Standard and Premium Account. Click on _Buy Now_ button for Premium account. 
 
-![features](https://www.dropbox.com/s/ek208d7mfc3urlk/features.png?dl=0)
+![features](/theme/images/blog-articles/knowledgebase/upgrade-account/features.jpg)
 
 3. Picovico premium version is available at various subscription charges:
 
@@ -36,13 +36,13 @@ In addition, you can also upload photos and music size up to 12 MB and 40 MB res
 ..* It costs $74.49 when subscribed yearly. With this plan, you can save $74.79.
 ..* Picovico also allows you to try its premium account for a day which costs $1.99 only. 
 
-![subscription](https://www.dropbox.com/s/6gbwr8nsgblcpca/subscription.png?dl=0)
+![subscription](/theme/images/blog-articles/knowledgebase/upgrade-account/subscription.jpg)
  
-Select your desired plan and click on _Buy_
+Select your desired plan and click on __Buy__
 
-4. Next, type in your credit card details and click on play. 
+4. Next, type in your credit card details and click on __Pay__. 
 
-![credit card details](https://www.dropbox.com/s/2cwreg69q8al9cx/credit%20card%20details.png?dl=0)
+![credit card details](/theme/images/blog-articles/knowledgebase/upgrade-account/credit_card_details.jpg)
 
 Your account will be upgraded to premium immediately after the payment is processed.
-If you have'nt signed up for Picovico yet, do it [here](https://web.picovico.com/en/user/login). 
+If you have&#8217;nt signed up for Picovico yet, do it [here](https://web.picovico.com/en/user/login). 

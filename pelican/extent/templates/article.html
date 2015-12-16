@@ -10,6 +10,9 @@
     <meta property="og:title" content="{{ article.title|striptags }}" />
     <meta property="og:description" content="{% if article.summary|length > 0 %}{{article.summary}}{% else %}{{ article.content|striptags|truncate(100, True) }}{% endif %}"/>
     
+    {% if '^/' in article.image %}
+    mano
+    {% endif %}
     {% if article.image %}
     <meta property="og:image" content=" {{ article.image }}" />
     <meta name="twitter:image" value="{{ article.image }}" />
@@ -35,7 +38,7 @@
 
 <!-- add this -->
         <div class="addthis_sharing_toolbox"></div>
-        
+
             <!-- <img src="{{ SITEURL }}/theme/images/blog/blog-item01.jpg" alt="{{ article.title|striptags }}" class="Full " /> -->
             <div class="col-md-11 omega">
                {% include 'meta.html' %}

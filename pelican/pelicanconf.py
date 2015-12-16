@@ -46,3 +46,9 @@ GOOGLE_ANALYTICS = "UA-56213136-6"
 RELATIVE_URLS = True
 
 THEME = "extent"
+
+PLUGIN_PATHS = ["plugins", ]
+PLUGINS = ["pv_absolute_path", ]
+
+
+

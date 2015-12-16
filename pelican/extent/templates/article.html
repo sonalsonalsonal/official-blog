@@ -9,18 +9,24 @@
     <meta property="og:site_name" content="Picovico Blog"/>
     <meta property="og:title" content="{{ article.title|striptags }}" />
     <meta property="og:description" content="{% if article.summary|length > 0 %}{{article.summary}}{% else %}{{ article.content|striptags|truncate(100, True) }}{% endif %}"/>
-    <meta property="og:image" content="{{ SITEURL }}/themes/images/logo.png" />
+    
+    {% if article.image %}
+    <meta property="og:image" content=" {{ article.image }}" />
+    <meta name="twitter:image" value="{{ article.image }}" />
+    <link rel="image_src" href="{{ article.image }}" />
+    {% else %}
+    <meta property="og:image" content="{{ SITEURL }}/theme/images/logo.png" />
+    <meta name="twitter:image" value="{{ article.image }}" />
+    <link rel="image_src" href="{{ SITEURL }}/theme/images/logo.png" />
+    {% endif %}
+
     <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}"/>
     <meta property="fb:admins" content="515324669"/>
-    
-    <link rel="image_src" href="{{ SITEURL }}/themes/images/logo.png" />
-
+  
     <meta name="twitter:site" value="@picovico" />
     <meta name="twitter:url" value="{{ SITEURL }}/{{ article.url }}"/>
     <meta name="twitter:title" value="{{ article.title|striptags }}" />
     <meta name="twitter:description" value="{% if article.summary|length > 0 %}{{article.summary}}{% else %}{{ article.content|striptags|truncate(100, True) }}{% endif %}" />
-
-    <meta name="twitter:image" value="{{ SITEURL }}/themes/images/logo.png" />
 {% endblock %}
 
 

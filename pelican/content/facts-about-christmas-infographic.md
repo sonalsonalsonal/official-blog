@@ -6,6 +6,7 @@ Tags: Christmas, holidays, facts, Knowledge Base, infographic
 Slug: facts-about-christmas-infographic
 Authors: PICOVICO
 Summary: With Christmas just around the corner, even we couldn&#39;t contain our excitement. So, we put together a fun infographic about...
+Image: /theme/images/blog-articles/infographics/thumbs/facts-about-christmas-2015.jpg
 
 Hohoho! its almost that time of the year when you reunite with your family and friends, kiss under the mistletoes, gift, celebrate, wish merry christmas and have no excuse to taste plenty of food for your christmas dinner. 
 

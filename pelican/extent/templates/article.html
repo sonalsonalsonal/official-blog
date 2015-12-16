@@ -10,11 +10,8 @@
     <meta property="og:title" content="{{ article.title|striptags }}" />
     <meta property="og:description" content="{% if article.summary|length > 0 %}{{article.summary}}{% else %}{{ article.content|striptags|truncate(100, True) }}{% endif %}"/>
     
-    {% if '^/' in article.image %}
-    mano
-    {% endif %}
     {% if article.image %}
-    <meta property="og:image" content=" {{ article.image }}" />
+    <meta property="og:image" content="{{ article.image }}" />
     <meta name="twitter:image" value="{{ article.image }}" />
     <link rel="image_src" href="{{ article.image }}" />
     {% else %}

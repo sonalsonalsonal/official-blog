@@ -1,9 +1,15 @@
 <article class="blog-post blog-snippet" data-tags="{% include 'article_tags_blog_class.html' %}">
-   {% if article.image %}
-      <img src="{{ article.image }}" alt="{{ article.title }}" class="Full " />
-   {% endif %}
    <div class="col-md-11 omega">
       {% include 'meta.html' %}
+
+   {% if article.image %}
+	<div class='article-image thumbnail'>
+      <a href="{{ article.url }}" title="{{ article.title }}">
+         <img src="{{ article.image }}" alt="{{ article.title }}" class="Full " style="padding:0"/>
+      </a>
+	</div>
+   {% endif %}
+
       <h3>
          <a href="{{ article.url }}" rel="bookmark" title="{{SITENAME}} - {{ article.title|striptags }}">{{ article.title }}</a>
       </h3>

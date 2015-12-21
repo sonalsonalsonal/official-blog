@@ -7,7 +7,7 @@ Slug: new-christmas-video-style-carol
 Authors: PICOVICO
 Summary:Merry Christmas folks! We are back to this wonderful time of the year when we reconnect with our family and celebrate love, grace and the tradition of giving and receiving gifts. We send out...
 
-![christmas video style](https://www.dropbox.com/s/75vzk0vzza3nskv/christmas_cover.jpg?dl=1)
+![christmas video style](/theme/images/blog-articles/releases/carol-2015-small.jpg)
 
 Merry Christmas folks! We are back to this wonderful time of the year when we reconnect with our family and celebrate love, grace and the tradition of giving and receiving gifts. We send out millions of greetings to our loved ones giving the message of faith, love and warmth. Christmas is always followed by countless special memories that we build year after year.
 

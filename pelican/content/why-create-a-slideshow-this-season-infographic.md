@@ -9,5 +9,5 @@ Summary: Shooting and editing a video will require thousands of dollars which ev
 
 Shooting and editing a video requires thousands of dollars and expertise which everyone cannot afford. That is why there are Slideshows. Slideshows are the new way of engaging lightweight videos that convey your brand story or are best to create product slidehshows. Check out the following infographic to know why you must create a slideshow this holiday season.
 
-![why slideshows](https://www.dropbox.com/s/ymh5dslabtniwtp/infographic%202-02.png?dl=1)
+![why slideshows](/theme/images/blog-articles/infographics/why-create-slideshow-this-season.jpg)
 

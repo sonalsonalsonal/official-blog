@@ -5,6 +5,7 @@ Category:
 Tags: Picovio Web, Picovico app, video making, video styles, photo-slideshows, video creator, uses, Christmas video, holidays
 Slug: new-christmas-video-style-carol
 Authors: PICOVICO
+Image: /theme/images/blog-articles/releases/carol_thumb.jpg
 Summary:Merry Christmas folks! We are back to this wonderful time of the year when we reconnect with our family and celebrate love, grace and the tradition of giving and receiving gifts. We send out...
 
 ![christmas video style](/theme/images/blog-articles/releases/carol-2015-small.jpg)

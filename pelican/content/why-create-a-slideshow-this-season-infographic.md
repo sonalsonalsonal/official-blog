@@ -1,6 +1,6 @@
 Title: Why create slideshow videos this holiday season? - Infographic  
-Date: 2015-12-18 18:36:00
-Modified: 2015-12-18 18:36:00
+Date: 2015-12-21 14:38:00
+Modified: 2015-12-21 14:38:00
 Category: 
 Tags:infographic, video making, online shopping, product videos, photo-slideshows, video creator, uses, Knowledge Base
 Slug: why-create-slideshow-videos-holiday-season-infographic

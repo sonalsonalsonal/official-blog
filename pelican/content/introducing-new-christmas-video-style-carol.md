@@ -21,3 +21,5 @@ And to help you create your perfect christmas video, we released a dazzling vide
 That’s not it. We also have three more awesome video styles, [Christmas snowfall](https://web.picovico.com/en/video/styles/christmasoutdoor) with a charming falling snow winter effect, [Merry Christmas](https://web.picovico.com/en/video/styles/christmasindoor) with a warm indoor theme and [Winter Joy](https://web.picovico.com/en/video/styles/christmasoutdoor_winter) with a cool winter scenery style, all of which are elegant, festive and easy to create. 
 
 Starting now, create a perfect christmas video this holiday with Picovico wishing a merry and bright Christmas, or as a means to share and recap your Christmas memories with your dear ones.
+
+[Create your christmas video now with Carol](https://web.picovico.com/en/video/styles/carol)

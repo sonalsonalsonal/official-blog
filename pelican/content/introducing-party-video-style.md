@@ -5,7 +5,7 @@ Category:
 Tags: Picovio Web, Picovico app, video making, photo-slideshows, video creator, video-styles, new year, party-slideshow
 Slug: party-video-style-new-year
 Authors: PICOVICO
-Summary:
+Summary:Party is a rocking new video style featuring a spectrum-inspired frame that displays your party photos in a spectacular dancing form. Designed especially...
 
 ![party video slideshow maker](https://www.dropbox.com/s/t87vmggojrnq877/party_blog_banner.jpg?dl=1)
 

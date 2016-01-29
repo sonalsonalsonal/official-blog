@@ -6,6 +6,7 @@ Tags: photo-slideshows, love-slideshow, valentine-gifts, valentine-video, unique
 Slug: give-your-love-valentines-video
 Authors: PICOVICO
 Summary: All of us have our unique ways of expressing our emotions on this special day of love. Wait a minute, do we? 
+Image: /theme/images/blog-articles/releases/soulmate/valentines-day-2016_thumb.jpg
 
 ![valentines video](/theme/images/blog-articles/releases/soulmate/valentines-day-2016.jpg)
 

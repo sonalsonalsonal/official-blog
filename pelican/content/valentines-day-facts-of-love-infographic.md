@@ -11,7 +11,6 @@ Image: /theme/images/blog-articles/infographics/thumbs/valentines-day-2016-infog
 February 14th is celebrated all over the world as the day of love, exchanging chocolates, flowers and gifts with the loved ones. However, it&#39;ss not just about the romantic stuff, but also about the amazing facts associated with it that makes the day quite an interesting one. Here&#39;ss the most enjoyable and fascinating collection of Valentine&#39;ss Day statistics to absolutely amaze you.
 
 ![Valentine&#39;ss day infographic](/theme/images/blog-articles/infographics/valentines-day-2016-infographics.jpg)
-(https://www.dropbox.com/s/78416wlb7d53sg7/infographic%20valentines%20day-01%20%281%29.jpg?dl=1)
 
 As per the statistics, flowers, chocolates and cards are used more often as Valentine&#39;ss Day gifts while we can do much better with the way we choose to celebrate the only day that&#39;ss set aside for love.
 If you&#39;sre looking for creative Valentine gift ideas for him/her, creating a sincere video can definitely be a wonderful gesture. With Picovico&#39;ss two Valentine special styles, Soulmate and Valentine&#39;ss Day, you don&#39;st need to worry at all. Just get your photos ready, upload them into the system and let the app do the rest. Once your video is ready, you can easily download it for sharing purpose.

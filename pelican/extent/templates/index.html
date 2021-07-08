@@ -3,8 +3,15 @@
 
 {% block content %}
  {% if articles %}
+ <div class="row">
   {% for article in (articles_page.object_list if articles_page else articles) %}  
-   {% include 'article_snippet.html' %}
+
+  {{loop.cycle('</div><div class="row">', '')}}
+
+   <div class='{{ loop.cycle('col-sm-7 article-block-left', 'col-sm-5 article-block-right')}}'>
+        {% include 'article_snippet.html' %}
+   </div>
   {% endfor %}
+</div>
  {% endif %}
 {% endblock %}
